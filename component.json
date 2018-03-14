@@ -1,0 +1,10 @@
+{
+    "name": "validators",
+    "description": "validators component",
+    "local": [],
+    "scripts": ["index.js"],
+    "main": "index.js",
+    "dependencies": {
+        "serandomps/serand": "master"
+    }
+}
